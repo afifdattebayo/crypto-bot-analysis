@@ -1,0 +1,6 @@
+requests
+openai
+pandas
+ta
+python-telegram-bot==20.3
+python-dotenv
